@@ -20,6 +20,6 @@ Generate User-Generated Content (UGC) style advertisements using AI prompt engin
 
 ## Author
 
-Adwaith Santhosh
+AMANSETHU T S
 
 Future Interns – Prompt Engineering Internship
